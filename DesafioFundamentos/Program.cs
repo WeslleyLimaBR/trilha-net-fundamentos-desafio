@@ -36,6 +36,7 @@ while (exibirMenu)
             break;
 
         case "2":
+            es.ListarVeiculos();
             es.RemoverVeiculo();
             break;
 
